@@ -76,14 +76,14 @@ The report follows a Star Schema design for better performance and scalability.
   •	Improve fitness planning using data-driven insights
 
 
-🧑‍💻 Author
-Omkar Kandewad
 
 
+Dashboard :- 
 
 <img width="1303" height="742" alt="Screenshot 2025-12-25 172434" src="https://github.com/user-attachments/assets/eb810709-0f38-49c0-a71e-373d23123806" />
 
-
+🧑‍💻 Author
+Omkar Kandewad
 
 
 
