@@ -23,7 +23,7 @@ The goal of this project is to demonstrate:
   o	Clients Goal
   o	Duration & intensity
   o	Date and user-level attributes
-⚠️ This dataset is used only for learning and portfolio purposes.
+
 
 🧩 Data Modeling Approach
 The report follows a Star Schema design for better performance and scalability.
