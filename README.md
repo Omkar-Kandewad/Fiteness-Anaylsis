@@ -1,4 +1,6 @@
-# PowerBi-Fitness-Analysis
+# Power Bi-Fitness-Analysis
+
+Fitness_Anaylsis-Power Bi Project
 
 📌 Project Overview:-
 
